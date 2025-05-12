@@ -1,0 +1,9 @@
+Exceptions 4 points
+1) Does Integer class parseInt() have a checked or unchecked exception? Why?
+It has an unchecked exception because it come from a runtime exception.
+
+2) Does Scanner class constructor, public Scanner(File source) have a checked or unchecked
+exception? Why?
+This is a checked exception because it comes from an IOException. 
+
+two Screen shots provided 
